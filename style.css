@@ -1,0 +1,37 @@
+span.a {
+  display: inline;
+  width: auto;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  border: 3px solid blue;
+  background-color: yellow;
+  vertical-align: middle;
+}
+span.c {
+  display: block;
+  width: auto;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  border: 3px solid blue;
+  background-color: yellow;
+}
